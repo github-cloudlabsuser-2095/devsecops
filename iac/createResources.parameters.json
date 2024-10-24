@@ -1,12 +1,12 @@
-{
+c{
   "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
   "contentVersion": "1.0.0.0",
   "parameters": {
     "env": {
-      "value": "deploymentidvalue"
+      "value": "1495617"
     },
     "sqlPassword": {
-      "value": "bicepsqlpass"
+      "value": "ciod53ATP*2u"
     },
     "aksLinuxAdminUsername": {
       "value": "localadmin"
